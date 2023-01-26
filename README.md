@@ -6,7 +6,6 @@ This breakthrough book from James Clear is the most comprehensive guide on how t
 2. Exponentially Improve Your Life
 It's normal to not remember every single thing you've done in a day, as a large portion of our daily actions are automatic and done out of habit. Estimates suggest that around 40-45% of our decisions are made through habit. However, this is not a negative thing as habits are an evolutionary skill that our ancestors developed to conserve cognitive processing for more important tasks. Habits are formed through a cue-craving-response-reward system, as demonstrated by the example of smoking where seeing a cigarette or lighter is the cue, the craving to smoke follows, the response is picking up the cigarette, and the reward is the nicotine that the body craved.
 
-image.png
 
 Habits are a natural and powerful aspect of our lives, but it's important to recognize that not all habits are beneficial. Many people are unaware that a significant portion of their actions are driven by habit. This is why developing positive habits is so crucial. Habits are so ingrained in our daily routines that we often perform them without conscious thought. Negative habits, however, can have detrimental effects on our lives and future.
 
@@ -20,4 +19,3 @@ Making good habits can be difficult, but by following these four steps, it can b
 
 Breaking bad habits is a challenging task, but it can be done by changing your lifestyle and environment. The key to breaking bad habits is to invert the process of building good habits by making them invisible, unattractive, difficult and unsatisfying. To make bad habits invisible, remove the cues that trigger them, such as getting rid of cigarettes or taking the TV out of your room. To make them unattractive, reframe your mindset and highlight the benefits of breaking the habit by researching the negative effects and by changing the way you think about the emotions you feel. To make them difficult, use a commitment device such as leaving your wallet at home or setting limitations that restrict you from engaging in the bad habit. To make them unsatisfying, hold yourself accountable by creating a habit contract and punishing yourself immediately after engaging in the bad habit, and having an accountability partner can also help. By following these steps, you can break your bad habits and improve your overall health and productivity
 
-image.png
