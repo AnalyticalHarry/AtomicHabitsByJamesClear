@@ -4,3 +4,10 @@ Habits, integral to our daily lives, constitute approximately 40-45% of our deci
 
 https://github.com/AnalyticalHarry/AtomicHabitsByJamesClear/blob/main/AtomicHabits.ipynb
 
+### JavaScript
+
+https://github.com/AnalyticalHarry/AtomicHabitsByJamesClear/blob/main/AtomicHabitsCalculator.js
+
+### Buy Atomic Habit from Amazon
+
+https://www.amazon.co.uk/atomic-habits/s?k=atomic+habits
